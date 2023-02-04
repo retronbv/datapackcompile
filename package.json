@@ -1,0 +1,15 @@
+{
+  "name": "datapackcompie",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "sh build.sh"
+  },
+  "keywords": ["retronbv","retronlabs","minecraft"],
+  "author": "retronbv",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.0.6"
+  }
+}

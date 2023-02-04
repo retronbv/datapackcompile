@@ -1,0 +1,15 @@
+{
+  "id":"custom_item",
+  "crafting":{
+    "type":"shaped",
+    "recipe":["#  ",
+              " # ",
+              " | "],
+    "key":{
+      "#":{"item":"minecraft:iron_ingot"},
+      "|":{"item":"minecraft:stick"}
+    }
+  },
+  "base_item":"minecraft:scute",
+  "nbt":"{display:{Name:'{\"text\":\"lol custom item w/crafting\"}'}}"
+}
